@@ -1,0 +1,105 @@
+{
+  "listbooking1": [
+    {
+      "id": 1,
+      "habitacion": "Suite",
+      "fecha": "De: 29/09/2021 hasta 30/09/2021",
+      "precio": 300,
+      "cliente": "Saulo",
+      "pago": "Tarjeta",
+      "estatus": "Atendido",
+      "tableData": {
+        "id": 0
+      }
+    },
+    {
+      "id": 2,
+      "habitacion": "Doble",
+      "fecha": "De: 29/09/2021 hasta 30/09/2021",
+      "precio": 100,
+      "cliente": "Maria",
+      "pago": "Tarjeta",
+      "estatus": "Atendido"
+    },
+    {
+      "id": 3,
+      "habitacion": "Matrimonial",
+      "fecha": "De: 29/09/2021 hasta 30/09/2021",
+      "precio": 200,
+      "cliente": "Pedro",
+      "pago": "Tarjeta",
+      "estatus": "Pendiente"
+    },
+    {
+      "id": 4,
+      "habitacion": "Suite",
+      "fecha": "De: 29/09/2021 hasta 30/09/2021",
+      "precio": 300,
+      "cliente": "Juan",
+      "pago": "Efectivo",
+      "estatus": "Pendiente"
+    },
+    {
+      "id": 5,
+      "habitacion": "Suite",
+      "fecha": "De: 29/09/2021 hasta 30/09/2021",
+      "precio": 300,
+      "cliente": "Luis",
+      "pago": "Tarjeta",
+      "estatus": "Atendido"
+    },
+    {
+      "id": 6,
+      "habitacion": "Matrimonial",
+      "fecha": "De: 28/09/2021 hasta 30/09/2021",
+      "precio": "200",
+      "cliente": "Karen",
+      "pago": "Efectivo",
+      "estatus": "Atendido",
+      "tableData": {
+        "id": 5
+      }
+    }
+  ],
+  "users": [
+    {
+      "nombre": "sebastian",
+      "usuario": "syabiku",
+      "password": "123456",
+      "repitepassword": "",
+      "email": "sby2710@gmail.com",
+      "telefono": "92370000",
+      "repite/naved": "123456",
+      "id": 1
+    }
+  ],
+  "dashboard": [
+    {}
+  ],
+  "cuartos": [
+    {
+      "id": 1,
+      "suite": {
+        "disponibles": 2,
+        "total": 50,
+        "ocupadas": 48
+      }
+    },
+    {
+      "id": 2,
+      "suite": {
+        "disponibles": 2,
+        "total": 50,
+        "ocupadas": 48
+      }
+    },
+    {
+      "id": 3,
+      "suite": {
+        "disponibles": 2,
+        "total": 50,
+        "ocupadas": 48
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+img { 
+    
+    width: 100%;
+    position: relative;
+}
+
+h2 {
+    
+    text-align: center;
+    font-size: 30px;
+}
+
+.banner {
+    height: 100vh;
+    background-size: cover;
+    margin-bottom: 50px;
+}
